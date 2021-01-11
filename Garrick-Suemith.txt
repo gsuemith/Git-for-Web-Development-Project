@@ -52,6 +52,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     16. What is the difference between a section and a div
         a section is a grouping of elements in a page while a div separates content for styling or scripting
         a div can represent groups or individual elements
+        section is a semantic tag while div is not
 
     17. What is CSS used for? 
         css is used to add styling such as color, font-size, and white space to a web page
